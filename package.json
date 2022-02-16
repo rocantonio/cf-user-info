@@ -1,0 +1,18 @@
+{
+    "name": "userinfo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Roc Antonio",
+    "license": "ISC",
+    "dependencies": {
+      "express": "*",
+      "jwt-decode": "2.2.0",
+    },
+    "engines": {
+        "node": "14.x"
+    }
+  }
